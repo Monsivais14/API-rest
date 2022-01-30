@@ -1,0 +1,5 @@
+com/monsi/contactos/ServiceImpl/ContactoServiscelmpl.class
+com/monsi/contactos/repository/ContactoRepository.class
+com/monsi/contactos/entity/Contacto.class
+com/monsi/contactos/controller/ContactoController.class
+com/monsi/contactos/service/ContactoService.class
